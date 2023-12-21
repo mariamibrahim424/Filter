@@ -1,4 +1,4 @@
-# Filter
+# The Great Wall of Santa Cruz
 
 In this project, The Grear Firewall of Santa Cruz, the program takes in a list
 of "badspeak" words and a pair of "oldspeak" and "newspeak" words.
